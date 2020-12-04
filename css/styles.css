@@ -1,0 +1,63 @@
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+
+.row-content-starter {
+    margin:0px auto;
+    padding: 50px 200px 50px 200px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.row-content {
+    margin:0px auto;
+    padding:0px auto;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #01d9ff ;
+    color:floralwhite;
+}
+
+.Heading-Section {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #d8e0e9 ;
+    color:rgb(28, 21, 88);
+}
+
+.address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+  .sticky + .content {
+    padding-top: 102px;
+  }
+
+  .parallax {
+    background-image: url("Images/parallax.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
