@@ -1,0 +1,8 @@
+
+https://www.w3schools.com/howto/howto_css_parallax.asp ----> parallax scrolling
+
+https://www.w3schools.com/howto/howto_js_sticky_header.asp -----> How TO - On Scroll Header
+
+https://medium.com/@junjiejiang94/one-stop-guide-for-plotly-and-dash-text-dataset-visualization-using-big-query-and-flask-good-to-c089a30e9569   ------> One-Stop Guide for Plotly and Dash Text Dataset Visualization Using Big Query and Flask: Good to Great
+
+https://www.w3schools.com/howto/howto_js_sticky_header.asp   -----> onScroll sticky
